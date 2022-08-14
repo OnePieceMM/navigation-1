@@ -1,4 +1,3 @@
-/.cashe/
-/dist/
+/.cache/
 /node.modules/
 /.idea/
